@@ -1,3 +1,5 @@
+# Computational Physics Midterm Spring 2023
+
 ![Video_Game_Cover_-_The_Last_of_Us.jpg](attachment:Video_Game_Cover_-_The_Last_of_Us.jpg)
 
 
@@ -6,4 +8,4 @@ Suppose you have a pandemic of cordyceps fungal infection as in the game and sho
 
 We will consider `n_walker` random walkers in 2 dimensions that each take `n_steps` steps. At each step, the walkers can move `d` units in either x or y. The walkers are confined to a single 1x1 room with cyclic boundary conditions in x and y (so, the walkers wrap around if they wander off the edge). There is a configurable initial number of infected zombies, `n_infected`.  There is always one person immune (Ellie), but healthy people can be infected by zombies and cured by Ellie. 
 
-The code below assumes that there is zero rate of transmission from the infected individuals (i.e., passive zombies). The animation shows the paths of the walkers. The healthy individuals show up as blue dots. The zombies show up as red dots. Ellie is a green dot. 
+The code below assumes that there is zero rate of transmission from the infected individuals (i.e., passive zombies). The animation shows the paths of the walkers. The healthy individuals show up as blue dots. The zombies show up as red dots. Ellie is a green dot.
