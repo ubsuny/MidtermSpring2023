@@ -1,6 +1,6 @@
 # Computational Physics Midterm Spring 2023
 
-![Video_Game_Cover_-_The_Last_of_Us.jpg](attachment:Video_Game_Cover_-_The_Last_of_Us.jpg)
+![](attachment:Video_Game_Cover_-_The_Last_of_Us.jpg?raw=true)
 
 
 Suppose you have a pandemic of cordyceps fungal infection as in the game and show "The Last of Us". If someone is infected by the cordyceps fungus, they become a zombie who feeds on other people, and infects them, creating more zombies. There is a single person, Ellie Williams, who is immune to cordyceps infection. If you are a fan of the show, we will be diverging from canon now. Suppose that a group of people (the "Fireflies") has benignly developed a **cure** for cordyceps, but not a **vaccine**, using Ellie's blood. If the treatment is administered, the person in question is no longer infected. However, they can be re-infected by being bitten again. This means Ellie herself is the best person to administer the vaccine, so she will be wandering around aimlessly administering the vaccine to nearby people. She has an infinite supply of vaccine.  
